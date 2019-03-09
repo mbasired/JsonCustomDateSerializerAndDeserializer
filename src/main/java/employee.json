@@ -1,0 +1,16 @@
+{
+	"id": 1,
+	"name": "Maheswara",
+	"permanent": true,
+	"address": {
+		"street": "HINJEWADI",
+		"city": "PUNE",
+		"zipcode": 411057
+	},
+	"phoneNumbers": [
+		123,
+		345
+	],
+	"role": "DEVELOPER",
+	"dob": "09-Mar-2019"
+}
